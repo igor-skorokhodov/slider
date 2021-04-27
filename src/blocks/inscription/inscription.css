@@ -1,0 +1,22 @@
+@keyframes show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+      
+.inscription {
+    font-family: Inter;
+    opacity:0; 
+    transition: 1s;
+    animation: show 3s 1; 
+    animation-fill-mode: forwards; 
+    animation-delay: 1s; 
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+}

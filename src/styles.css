@@ -1,0 +1,14 @@
+@import url(./blocks/body/body.css);
+@import url(./blocks/container/container.css);
+@import url(./blocks/text/text.css);
+@import url(./blocks/time/time.css);
+@import url(./blocks/swiper/swiper.css);
+@import url(./blocks/inscription/inscription.css);
+@import url(./vendor/fonts.css);
+@import url(./vendor/normalize.css);
+@import url(./blocks/swiper-slide/swiper-slide.css);
+@import url(./blocks/swiper-wripper/swiper-wripper.css);
+@import url(./blocks/swiper-div/swiper-div.css);
+@import url(./blocks/form/__button/form__button.css);
+@import url(./blocks/form/__input/form__input.css);
+@import url(./blocks/form/form.css);
